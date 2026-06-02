@@ -1,64 +1,71 @@
 <h1 align="center">Mainak Debnath</h1>
 
 <p align="center">
-AI Engineer • Full Stack Developer
+Full Stack Developer • AI & Machine Learning
 </p>
 
 <p align="center">
-Building AI-powered products, backend systems, and modern web applications.
+Computer Science undergraduate focused on building intelligent applications and scalable software systems.
 </p>
 
 ---
 
-I'm a Computer Science undergraduate at IEM Kolkata focused on software engineering, machine learning, and generative AI.
+### About
 
-I enjoy building products that combine intelligent systems with practical applications—from AI interview platforms and conversational assistants to business automation tools.
+I'm interested in software engineering, machine learning, and generative AI.
 
-### What I'm Working On
+Most of my work revolves around building full-stack applications, backend systems, and AI-powered products using modern web technologies and machine learning frameworks.
 
-* AI and LLM-powered applications
-* Full-stack web products using React and Node.js
-* Machine Learning and Deep Learning projects
-* Backend systems and APIs
-* Data Structures & Algorithms
+---
 
-### Featured Projects
+### Selected Projects
 
 **InterviewIQ**
-AI-powered mock interview platform with resume analysis, voice interaction, automated evaluation, and personalized feedback.
+AI-powered mock interview platform featuring resume analysis, voice-based interviews, automated scoring, and personalized feedback.
 
 **Engineer Attendance Dashboard**
-Production-grade attendance management system with GPS verification, analytics, reporting, and role-based access control.
+Attendance management platform with GPS verification, image-based check-ins, analytics, reporting, and role-based access control.
 
 **GenAI Conversational Assistant**
-Conversational AI system built using NLP workflows, transformers, and TensorFlow.
+Conversational AI application built using NLP pipelines, transformers, and TensorFlow.
 
-### Tech Stack
+---
+
+### Technologies
 
 ```text
+Languages
 Python • C++ • JavaScript • SQL
 
-React • Tailwind CSS
+Frontend
+React • Tailwind CSS • HTML • CSS
 
-Node.js • Express.js
+Backend
+Node.js • Express.js • REST APIs
 
+Databases
 MongoDB • PostgreSQL • Firebase
 
+Machine Learning
 TensorFlow • Scikit-Learn • NLP • LLMs
 
+Tools
 AWS • Git • GitHub
 ```
 
-### Current Focus
+---
 
-* Retrieval-Augmented Generation (RAG)
-* LLM Engineering
+### Current Interests
+
 * Applied Machine Learning
-* System Design
+* Large Language Models
+* Retrieval-Augmented Generation
+* Backend Architecture
+* Distributed Systems
 
-### Links
+---
 
-Portfolio: https://whimsical-peony-203dfa.netlify.app/
+Portfolio: https://whimsical-peony-203dfa.netlify.app
 
 LinkedIn: linkedin.com/in/mainak-debnath01
 
