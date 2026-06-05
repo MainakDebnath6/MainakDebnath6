@@ -65,7 +65,7 @@ AWS • Git • GitHub
 
 ---
 
-Portfolio: https://whimsical-peony-203dfa.netlify.app
+Portfolio: https://mainakdebnath.netlify.app/
 
 LinkedIn: linkedin.com/in/mainak-debnath01
 
